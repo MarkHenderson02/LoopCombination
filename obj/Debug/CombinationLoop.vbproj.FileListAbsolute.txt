@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\bin\Debug\CombinationLoop.exe.config
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\bin\Debug\CombinationLoop.exe
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\bin\Debug\CombinationLoop.pdb
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\bin\Debug\CombinationLoop.xml
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.Form1.resources
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.Resources.resources
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.exe
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.xml
+G:\52020007\Pemg Visual\Modul 4\CombinationLoop\obj\Debug\CombinationLoop.pdb
